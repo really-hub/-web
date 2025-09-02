@@ -1,12 +1,13 @@
-# -web<%@ page language="java" contentType="text/html; charset=UTF-8"
+# -webウイルスにかかりました
      pageEncoding="UTF-8"%>
 <%@ taglib prefix="efw" uri="efw" %>
 <!DOCTYPE HTML>
 <HTML>
 <HEAD>
-	<efw:Client lang="jp"/>
+	警告⚠️
+	あなたはウイルスにかかりました
 </HEAD>
 <BODY>
-	<efw:elFinder home=""/>
+	あなたはウイルスにかかりました
 </BODY>
 </HTML>
