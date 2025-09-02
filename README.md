@@ -1,6 +1,4 @@
 # -webウイルスにかかりました
-     pageEncoding="UTF-8"%>
-<%@ taglib prefix="efw" uri="efw" %>
 <!DOCTYPE HTML>
 <HTML>
 <HEAD>
@@ -8,6 +6,6 @@
 	あなたはウイルスにかかりました
 </HEAD>
 <BODY>
-	あなたはウイルスにかかりました
+	
 </BODY>
 </HTML>
